@@ -1,5 +1,5 @@
 package br.ufac.sgcmapi.model;
-
+//inserindo comentário
 public enum EStatus {
 
     CANCELADO,
