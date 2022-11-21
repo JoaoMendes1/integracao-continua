@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  API_URL: 'https://sgcm-joao-victor.up.railway.app'
+  API_URL: 'https://sgcm-joao-victor.up.railway.app' //teste 
 };
 
 /*
